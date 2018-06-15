@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 15 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jonathon Zayas)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The monthly expense calculator applicationc computes a user's total livingexpenses for a given month an dsiplays the percentage of th total expenses spent for each category.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://github.com/zayajf/lesson4_javascript1)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned in this lesson how to use document.getElementById().value.)
+2. (I learned in this lesson how to use document.getElementById().innerHTML.)
+3. (I learned how to utilize funtions in Javascript.)
 
 
 
